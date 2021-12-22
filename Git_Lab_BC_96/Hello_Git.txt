@@ -1,0 +1,2 @@
+We use the git init command to initialize a Git repository in the root of a 
+folder. 
